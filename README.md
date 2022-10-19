@@ -1,6 +1,6 @@
 # Austin Metro Area Housing Investment Proposal
 
-![austin_2.jpg](attachment:austin_2.jpg)
+<img src = "image/austin_2.jpg"/>
 
 # Business Problem
 
@@ -23,20 +23,20 @@ This project is to help our client, an individual investor, who is interested in
 - Predicted May 2017- May 2022 housing prices  
 - Calculated the ROI by 5 year price prediction and chose the zip code with the highest ROI
 
-![Top5_roi-2.png](attachment:Top5_roi-2.png)
+<img src = "image/Top5_roi.png"/>
 
-![Top_5zip_price-2.png](attachment:Top_5zip_price-2.png)
+<img src = "image/Top_5zip_price.png"/>
 
-![actual_predic_train.png](attachment:actual_predic_train.png)
+<img src = "image/actual_predic_train.png"/>
 
 - Predicted May 2017- May 2022 housing prices  
 
-![prediction.png](attachment:prediction.png)
+<img src = "image/prediction.png"/>
 
 - Used 5 year price projection to get the ROI for selected zip codes
 - Zip code 78758 has the highest ROI 84.89%
 
-![final_roi-3.png](attachment:final_roi-3.png)
+<img src = "image/final_roi.png"/>
 
 # Recommendation
 
